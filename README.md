@@ -50,18 +50,13 @@ MySQL (version 5.7 or higher)
 ## Screenshots
 
 ![App Screenshot]
+![7](https://github.com/user-attachments/assets/188fc710-d3a4-4d75-a0ea-d835c17de7ba)
+![6](https://github.com/user-attachments/assets/393c099b-3081-4243-b536-1c429be5e561)
+![5](https://github.com/user-attachments/assets/951a2293-1f83-4c62-bc60-4c46956242c3)
+![4](https://github.com/user-attachments/assets/955d4935-3b71-4c18-916b-8c3f635cc7c8)
+![3](https://github.com/user-attachments/assets/de9c66f5-81cd-4206-bf11-dfe780563f83)
+![2](https://github.com/user-attachments/assets/36f66550-0f73-4cb4-85e1-cf7a458a614e)
+![1](https://github.com/user-attachments/assets/31f16629-2838-447b-b70d-d1afa8cea91b)
 
-https://github.com/patiltushar88/Barber-Shop-Management/blob/master/scrrenshots/1.png
 
-https://github.com/patiltushar88/Barber-Shop-Management/blob/master/scrrenshots/2.png
-
-https://github.com/patiltushar88/Barber-Shop-Management/blob/master/scrrenshots/3.png
-
-https://github.com/patiltushar88/Barber-Shop-Management/blob/master/scrrenshots/4.png
-
-https://github.com/patiltushar88/Barber-Shop-Management/blob/master/scrrenshots/5.png
-
-https://github.com/patiltushar88/Barber-Shop-Management/blob/master/scrrenshots/6.png
-
-https://github.com/patiltushar88/Barber-Shop-Management/blob/master/scrrenshots/7.png
 [Uploading README.md…]()
